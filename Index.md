@@ -29,4 +29,4 @@ Together, these two plots offer both a static comparison (bar chart) and an inte
 Dataset and Notebook Links
 
 Dataset: [licenses_fall2022.csv](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)  
-Rendered Notebook on GitHub: [View Notebook Here](https://github.com/SMRUTI2025/DATAVIZ-ASSIGNMENT/blob/main/YOUR_NOTEBOOK.ipynb)
+Rendered Notebook on GitHub: [View Notebook Here](https://github.com/Smruti2025/Data-Viz/blob/main/DATA%20VIZ-ASSIGNMENT.ipynb)
