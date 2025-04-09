@@ -1,4 +1,4 @@
-PLOT 1: BAR CHART OF LICENSE COUNTS BY TYPE
+# PLOT 1: BAR CHART OF LICENSE COUNTS BY TYPE
 What’s Being Visualized:
 For my first plot, I chose a bar chart showing the number of licenses for each License Type. This helps us quickly compare how frequently each category appears in the dataset. Each bar corresponds to a license type along the x-axis, and the bar height represents the count of rows in that category. I decided on a bar chart to give a clear visual ranking of the most common versus least common license types.
 
@@ -9,7 +9,7 @@ Color Choices: Each bar is colored by License Type so that viewers can quickly d
 
 Data Transformations: In Python, I dropped any rows with missing “Original Issue Date” or “License Type” to avoid errors. Aside from that filtering, I did not need additional transformations for this aggregate bar chart.
 
-PLOT 2: INTERACTIVE MONTLY LICENSE TRENDS
+# PLOT 2: INTERACTIVE MONTLY LICENSE TRENDS
 What’s Being Visualized:For my second plot, I created a time-series line chart that displays how many licenses were issued each month, grouped by License Type. The x-axis shows the Month (derived from the “Original Issue Date”), and the y-axis indicates the count of licenses. This reveals potential trends and fluctuations over time. Because there can be many different license types, I added a dropdown that allows the viewer to select a specific License Type to view its monthly pattern in isolation.
 
 Encodings, Color, Data Transformations, Interactivity
@@ -26,7 +26,7 @@ Together, these two plots offer both a static comparison (bar chart) and an inte
 
 
 
-Dataset and Notebook Links
+# Dataset and Notebook Links
 
 Dataset: [licenses_fall2022.csv](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)  
 Rendered Notebook on GitHub: [View Notebook Here](https://github.com/Smruti2025/Data-Viz/blob/main/DATA%20VIZ-ASSIGNMENT.ipynb)
